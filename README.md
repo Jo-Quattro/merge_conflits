@@ -1,3 +1,3 @@
-# merge_conflits
+LOCAL
 
 Ready for some conflits ?!!
