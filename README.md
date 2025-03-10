@@ -1,3 +1,3 @@
-# merge_conflits
+REMOTE
 
 Ready for some conflits ?!!
